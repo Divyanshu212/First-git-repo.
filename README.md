@@ -1,2 +1,2 @@
-# First-git-repo.
+# First-git-repo
 this is first github repo..
